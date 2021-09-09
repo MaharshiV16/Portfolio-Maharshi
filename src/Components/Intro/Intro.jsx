@@ -52,7 +52,7 @@ export default function Intro() {
           <p>An aspiring full-stack web-developer</p>
         </blockquote>
         <figcaption className="blockquote-footer">
-          Copmuter Science Sophmore{" "}
+          Computer Science Sophmore{" "}
           <cite title="Source Title">NIT Hamirpur</cite>
         </figcaption>
       </motion.figure>
